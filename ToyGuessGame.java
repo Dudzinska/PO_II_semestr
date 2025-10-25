@@ -12,7 +12,7 @@ public class ToyGuessGame extends JFrame {
     private JLabel scoreLabel;
     private JButton newGameButton;
     private JButton closeButton;
-    
+
     private String[] toys = {"lalka", "samochod", "mis", "klocki", "piłka"};
     private String[] hints = {
             "Dla dzieci, często ma sukienkę",
